@@ -1,0 +1,7 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.0",
+        "spipu/html2pdf": "^5.2",
+        "mpdf/mpdf": "^8.0"
+    }
+}
